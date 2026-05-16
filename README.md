@@ -1,13 +1,13 @@
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> , I'm Abhirup Roy</h1>
-<h3 align="center">A passionate MERN Stack Developer, Android Developer and Cloud Enthusiast</h3>
+<h3 align="center">A passionate Full Stack Developer, Android Developer, Cloud and AI Enthusiast</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiruproysq1&label=Profile%20views&color=0e75b6&style=flat" alt="abhirupr123" /> </p>-->
 
 - 🔭 I’m currently working on **Kotlin, Java and JavaScript**
 
-- 🔭 I’m intrested in  **Cloud Computing, DevOps and DSA**
+- 🔭 I’m intrested in  **AI—especially generative and agentic AI.**
 
-- 👯 I’m looking to collaborate **with others having same interest as of mine.**
+- 👯 I’m looking to collaborate **with others on exciting AI projects!**
 
 - 📫 How to reach me **[My Email](chandraniroy.sk@gmail.com)**
 <br>
@@ -15,7 +15,7 @@
 <h3 align="center">Profiles:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/abhirup-roy-595501241/" target="blank"><img align="center" src="https://i.pinimg.com/736x/82/37/7b/82377b6182491c6f5feb7293e0a062d1.jpg" alt="abhirup-roy" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://github.com/abhiruproysq1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhiruproysq1" height="30" width="30" /></a>&nbsp;
+<a href="https://abhirupr123.github.io/portfolio/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/000/357/012/original/vector-globe-icon.jpg" alt="Portfolio" height="30" width="30" /></a>&nbsp;
 <a href="https://leetcode.com/u/abhirup_cr/" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.ymdLUYayjisO2uU47lOI0AHaHa?w=176&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="abhirup_cr" height="35" width="40" /></a>&nbsp;
 <a href="https://www.cloudskillsboost.google/public_profiles/d5e812db-ae40-4d1f-b0e2-048b00a61e92" target="blank"><img align="center" src="https://th.bing.com/th?id=ODLS.f49f0c0f-54fa-4963-a7e9-dcc52062e6f8&w=32&h=32&qlt=93&pcl=fffffa&o=6&pid=1.2" alt="abhiruproy/gcp" height="40" width="40" /></a>&nbsp;
 <a href="https://learn.microsoft.com/en-us/users/abhiruproy-0761/" target="blank"><img align="center" src="https://th.bing.com/th?id=ODLS.f9daea21-9936-4164-815f-b5209459f3c6&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" alt="abhiruproy/azure" height="35" width="40" /></a>&nbsp;
