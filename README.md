@@ -14,7 +14,7 @@
 <img align="right" alt="coding" height ="420" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e471qgdf8i7v5z0emqlyaq7jdyslhhk676xemwy9iwr&ep=v1_gifs_search&rid=200.webp&ct=g">
 <h3 align="center">Profiles:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/abhirup-roy-595501241/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" alt="abhirup-roy" height="35" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/abhirup-roy-595501241/" target="blank"><img align="center" src="https://i.pinimg.com/736x/82/37/7b/82377b6182491c6f5feb7293e0a062d1.jpg" alt="abhirup-roy" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://github.com/abhiruproysq1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhiruproysq1" height="30" width="30" /></a>&nbsp;
 <a href="https://leetcode.com/u/abhirup_cr/" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.ymdLUYayjisO2uU47lOI0AHaHa?w=176&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="abhirup_cr" height="35" width="40" /></a>&nbsp;
 <a href="https://www.cloudskillsboost.google/public_profiles/d5e812db-ae40-4d1f-b0e2-048b00a61e92" target="blank"><img align="center" src="https://th.bing.com/th?id=ODLS.f49f0c0f-54fa-4963-a7e9-dcc52062e6f8&w=32&h=32&qlt=93&pcl=fffffa&o=6&pid=1.2" alt="abhiruproy/gcp" height="40" width="40" /></a>&nbsp;
